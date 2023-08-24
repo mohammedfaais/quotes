@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+button {
+    color: #1D9BF0;
+    font-weight: bold;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+body{
+  background-color: #1D9BF0;
+  color: #fff;
+}
+
+.quotes-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+
+
+.btn-twitter {
+  margin-top: 50px;
+}
